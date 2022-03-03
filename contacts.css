@@ -1,0 +1,169 @@
+body {
+    background-color: White;
+    background-image: url(./pics/b30600615f7aac3436c1f79a2e45db0e.jpg);
+    color: #000000;
+}
+
+.header{
+    display: block;
+    background-color: cyan;
+    margin: 25% 0 0 0 ;
+    padding: 0.5% 1%;
+    height: 120em;
+    width: 100em;
+    font-size: 0.2em;
+    background-size: cover;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.top{
+    background-color: black;
+    color: white;
+}
+
+.top img{
+    border-radius: 50%;
+    height: 50em;
+    width: 50em;
+    border: #000000 solid 5px;
+    margin-top: -25%;
+}
+
+.top header{
+    letter-spacing: 0.1em;
+    text-align: center;
+    font-size: 9em;
+    font-family: fantasy;
+    padding-bottom: 0.5em;
+}
+
+.top p{
+    text-align: center;
+    font-size: 5em;
+    font-family: fantasy;
+    padding-bottom: 0.5em;
+    margin-top: -1em;
+}
+
+.list ul{
+    list-style-type: none;
+    text-align: left;
+}
+
+.list ul li{
+    padding-top: 1em;
+    font-size: 5em;
+}
+
+.achievements{
+    display: block;
+    background-color: cyan;
+    margin: 1% 0 0 0 ;
+    padding: 0.5% 1%;
+    height: 120em;
+    width: 100em;
+    font-size: 0.2em;
+    background-size: cover;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.achievements header{
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: bolder;
+    font-size: 5em;
+    margin-top: 0em;
+}
+
+.achievements h2{
+    text-align: left;
+    font-family:cursive ;
+    font-size: 9em;  
+}
+
+.achievements p{
+    text-align: center;
+    font-size: 4em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+}
+
+.achievements i{
+    font-size: 12em;
+}
+
+.right{
+    background-size: cover;
+    width: 100%;
+    border: #000000 solid 5px;
+    background-color: cadetblue;
+    margin: 5.1em 2em 0em 1em;
+}
+
+.right nav ul{
+    display: flex;
+    list-style-type: none;
+    background-color: aqua;
+    width: 65%;
+    padding: 1em;
+    margin: -2.5% 10em;
+    border: black solid 5px;
+}
+
+.right nav ul li a{
+    padding: 0.5em 1.19em;
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.full{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+.content header{
+    font-size: 4em;
+    margin: 0.6em 0em 0em 1em;
+    font-family: fantasy;
+    color: whitesmoke;
+}
+
+.content form{
+    margin-left: 2em;
+    font-size: 2em;
+    text-align: center;
+    margin-top: -1em;
+}
+
+textarea{
+    text-align: center;
+    font-size: 0.8em
+}
+
+input[type='text']{
+    height: 3em;
+    width: 75%;
+    text-align: center;
+    font-size: 0.65em;
+}
+
+input[type='button']{
+    height: 3em;
+    width: 10em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
